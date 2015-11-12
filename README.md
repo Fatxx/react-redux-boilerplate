@@ -10,7 +10,7 @@ This is a simple React + Redux web app boilerplate that is ready to run locally.
 * Redux and react-redux
 * Immutable.js
 * Mocha & Chai for tests
-* Webpack
+* Webpack & Babel (ES6)
 * [Standard](http://standardjs.com) coding style
 
 Currently no CSS framework is being used, but we are more than pleased to accept a pull request :)
