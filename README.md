@@ -48,7 +48,7 @@ npm test
 If you wish to keep the tests running on changes:
 
 ```
-npm test:watch
+npm run test:watch
 ```
 
 ### Build
